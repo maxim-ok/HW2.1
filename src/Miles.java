@@ -5,7 +5,7 @@ public class Miles {
         int oneBonusMileCost = 20;
         int countBonusMiles = tiketPrice / oneBonusMileCost;
 
-        System.out.println("Количество бонусных миль:  " + countBonusMiles);
+        System.out.println("Количество бонусных миль: " + countBonusMiles);
 
     }
 }
